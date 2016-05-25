@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Search settings feature.
- */
-
-include_once 'compro_search.features.inc';
